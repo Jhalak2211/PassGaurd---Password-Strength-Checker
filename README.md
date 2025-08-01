@@ -52,5 +52,3 @@ Suggestions to Improve:
 - Include a password generator
 - Export report logs to file
 
-## 🧪 Reference
-- https://haveibeenpwned.com/API/v3
